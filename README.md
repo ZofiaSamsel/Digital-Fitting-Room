@@ -1,10 +1,10 @@
-# Digital-Fitting-Room
+# Digital_Fitting_Room
 
-A virtual closet program was created that superimposed graphics of clothing pieces on a person in AR in real time.
+A virtual closet program was created that superimposes graphics of clothing pieces on a person in AR in real time.
 
 # Description
 
-The program created contains the system folders (.git, .idea, _pycache_) and the utils and images. The images folder contains the subfolders astronaut, skeleton, and jacket, which store appropriately cropped images of the clothes used in the project. In addition, the images folder contains a backgrounds subfolder, which contains backgrounds in .png and .gif formats, which were used in the project. The utils folder contains the scripts app.py, background.py, and image.py. In addition, the root folder contains the scripts base.py and fashion_GUI_3.py.
+The program contains following: the system folder (.git, .idea, _pycache_) and the utils and images. The images folder contains the subfolders astronaut, skeleton, and jacket, which store appropriately cropped images of the clothes used in the project. In addition, the images folder contains a backgrounds subfolder, which contains backgrounds in .png and .gif formats, which were used in the project. The utils folder contains the scripts app.py, background.py, and image.py. In addition, the root folder contains the scripts base.py and fashion_GUI_3.py.
 
 The following libraries were used in the project:
 - MediaPipe, 
